@@ -1,0 +1,6 @@
+
+
+
+const shoppingCart: Product = [];
+
+export {};
